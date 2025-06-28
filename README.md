@@ -6,7 +6,7 @@
 
 ### 💼 Flowrev
 
-**Flowrev** is a specialized tool built to enhance the efficiency of revenue management teams. It centralizes data from various PMS platforms and delivers actionable insights through custom KPIs, dashboards, and reservation analytics.
+**Flowrev** is a specialized internal tool developed at **Otamiser** to improve the operational efficiency of the revenue management team. It integrates data from multiple PMS platforms and provides tailored dashboards and KPIs for performance tracking and decision-making.
 
 - **Purpose:** To increase workflow efficiency for revenue managers by integrating listings/reservations from multiple PMS sources and providing revenue insights via a custom dashboard.
 - **Role:** Full-stack development – integrations, backend logic, and dashboard tooling.
