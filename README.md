@@ -31,3 +31,35 @@
 - **Database:** [PostgreSQL]
 - **Deployment** [DigitalOcean]
 
+---
+### 🧠 IntelliBlog
+
+**IntelliBlog** is an intelligent blogging platform that combines standard social features with AI-driven content insights. Users can write posts, like, and comment — but what sets IntelliBlog apart is its built-in AI assistant that helps users make smarter publishing decisions.
+
+- **Purpose:** To enhance user engagement by recommending optimal **topics** and **posting times** based on AI analysis — not to generate content, but to empower better content strategies.
+- **Role:** Full-stack development with AI integration.
+
+#### 🔍 Key Features
+
+- **Standard Blogging Features:**
+  - Create, edit, and delete blog posts
+  - Like and comment on posts
+  - User profiles
+
+- **AI-Driven Insights:**
+  - Analyzes all of a user’s posts to detect trending themes and performance patterns
+  - Recommends:
+    - Popular or underutilized **topics**
+    - Ideal **posting times** for maximum reach
+    - Engagement trends over time
+
+- **Goal:** Help users grow and optimize their blogging strategy without generating content for them — IntelliBlog is a *decision support tool*, not a content writer.
+
+#### 🛠 Tech Highlights
+
+- **Frontend:** [React Typescript, Tailwind]
+- **Backend:** [CSharp, .NET, Fastendpoints]
+- **AI Integration:** [OpenAI API]
+- **Database:** [PostgreSQL]
+
+
