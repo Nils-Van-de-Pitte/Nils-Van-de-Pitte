@@ -1,8 +1,8 @@
-### 👋 Hi, I’m Nils — a full-stack .NET and JavaScript developer with startup grit
+### 👋 Hi, I’m Nils — a full-stack developer with startup grit
 
-I've spent the past 2.5 years building products from scratch — designing infrastructure, coding APIs, integrating platforms, and launching dashboards that solve real business problems.
+I build products from the ground up — designing infrastructure, writing scalable APIs, integrating third-party platforms, and launching dashboards that drive real business value.
 
-I'm especially strong in .NET, TypeScript, PostgreSQL, and DevOps. I thrive in fast-moving environments where I can work closely with decision-makers, own features, and ship to production fast.
+I started at Otamiser as a solo engineer, which means I know how to work independently, make critical technical decisions, and move fast without hand-holding. I’m especially strong in .NET, TypeScript, PostgreSQL, and DevOps, and I thrive in fast-paced environments where I can take full ownership of features, collaborate closely with decision-makers, and ship to production quickly.
 
 # Projects
 
@@ -27,11 +27,11 @@ I'm especially strong in .NET, TypeScript, PostgreSQL, and DevOps. I thrive in f
 
 #### 🛠 Tech Highlights
 
-- **Backend:** [Node.js, Express]
+- **Backend:** Node.js, Express
 - **Webhooks:** PMS integrations for automated data sync
-- **Frontend:** [React Typescript, NextJS]
-- **Database:** [PostgreSQL]
-- **Deployment** [DigitalOcean]
+- **Frontend:** React Typescript, NextJS
+- **Database:** PostgreSQL
+- **Deployment** DigitalOcean
 
 ---
 ### 🧠 IntelliBlog
@@ -59,10 +59,10 @@ I'm especially strong in .NET, TypeScript, PostgreSQL, and DevOps. I thrive in f
 
 #### 🛠 Tech Highlights
 
-- **Frontend:** [React Typescript, Tailwind]
-- **Backend:** [CSharp, .NET, Fastendpoints]
-- **AI Integration:** [OpenAI API]
-- **Database:** [PostgreSQL]
+- **Frontend:** React Typescript, Tailwind
+- **Backend:** CSharp, .NET, Fastendpoints
+- **AI Integration:** OpenAI API
+- **Database:** PostgreSQL
 
 
 
