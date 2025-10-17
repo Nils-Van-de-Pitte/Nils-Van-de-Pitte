@@ -2,7 +2,7 @@
 
 I build products from the ground up — designing infrastructure, writing scalable APIs, integrating third-party platforms, and launching dashboards that drive real business value.
 
-I started at Otamiser as a solo engineer, which means I know how to work independently, make critical technical decisions, and move fast without hand-holding. I’m especially strong in .NET, TypeScript, PostgreSQL, and DevOps, and I thrive in fast-paced environments where I can take full ownership of features, collaborate closely with decision-makers, and ship to production quickly.
+I started at Otamiser as a solo engineer, which means I know how to work independently, make critical technical decisions, and move fast without hand-holding. I’m especially strong in .NET, NodeJS TypeScript, React, PostgreSQL, and DevOps, and I thrive in fast-paced environments where I can take full ownership of features, collaborate closely with decision-makers, and ship to production quickly.
 
 # Projects
 
