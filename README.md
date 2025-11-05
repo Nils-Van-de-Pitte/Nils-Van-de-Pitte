@@ -1,71 +1,66 @@
-### 👋 Hi, I’m Nils — a full-stack developer with startup grit
+# 👋 Hey, I'm Nils Van de Pitte
 
-I build products from the ground up — designing infrastructure, writing scalable APIs, integrating third-party platforms, and launching dashboards that drive real business value.
-
-I started at Otamiser as a solo engineer, which means I know how to work independently, make critical technical decisions, and move fast without hand-holding. I’m especially strong in .NET, NodeJS TypeScript, React, PostgreSQL, and DevOps, and I thrive in fast-paced environments where I can take full ownership of features, collaborate closely with decision-makers, and ship to production quickly.
-
-# Projects
-
-### 💼 Flowrev
-
-**Flowrev** is a specialized internal tool developed at **Otamiser** to improve the operational efficiency of the revenue management team. It integrates data from multiple PMS platforms and provides tailored dashboards and KPIs for performance tracking and decision-making.
-
-- **Purpose:** To increase workflow efficiency for revenue managers by integrating listings/reservations from multiple PMS sources and providing revenue insights via a custom dashboard.
-- **Role:** Full-stack development – integrations, backend logic, and dashboard tooling.
-
-#### 🔗 Key Features
-
-- **PMS Integrations:** Automated fetching of listings and reservation data using webhooks.
-- **KPI Engine:** Calculation of key performance indicators (Total Revenue, ADR, Nights Booked, etc.) over custom date ranges.
-- **Pickup & Booking Window Analysis:** Analyze future bookings and the timing of reservations.
-- **Reservation Checker:** A sortable table with detailed booking data, including:
-  - ADR (Actual Daily Rate)
-  - Comparison vs. Base Rate & Min Rate (set per property)
-- **Property Configuration Tab:**
-  - View and manage listing-specific settings
-  - Customize dashboard views per revenue manager portfolio
-
-#### 🛠 Tech Highlights
-
-- **Backend:** Node.js, Express
-- **Webhooks:** PMS integrations for automated data sync
-- **Frontend:** React Typescript, NextJS
-- **Database:** PostgreSQL
-- **Deployment** DigitalOcean
+**Freelance Software Engineer** focused on helping early-stage startups turn ideas into scalable, high-performance platforms.
 
 ---
-### 🧠 IntelliBlog
 
-**IntelliBlog** is an intelligent blogging platform that combines standard social features with AI-driven content insights. Users can write posts, like, and comment — but what sets IntelliBlog apart is its built-in AI assistant that helps users make smarter publishing decisions.
+## 🚀 About Me
 
-- **Purpose:** To enhance user engagement by recommending optimal **topics** and **posting times** based on AI analysis — not to generate content, but to empower better content strategies.
-- **Role:** Full-stack development with AI integration.
+I specialize in building **efficient, data-driven platforms** — from early MVPs to production-ready systems.  
+My work blends **clean architecture**, **performance-first design**, and a deep understanding of how startups evolve.
 
-#### 🔍 Key Features
+I’m passionate about:
+- Transforming early concepts into real, working products.  
+- Designing scalable backend systems and smooth, intuitive UIs.  
+- Working closely with founders to align tech decisions with business goals.
 
-- **Standard Blogging Features:**
-  - Create, edit, and delete blog posts
-  - Like and comment on posts
-  - User profiles
+---
 
-- **AI-Driven Insights:**
-  - Analyzes all of a user’s posts to detect trending themes and performance patterns
-  - Recommends:
-    - Popular or underutilized **topics**
-    - Ideal **posting times** for maximum reach
-    - Engagement trends over time
+## 🧠 What I Build
 
-- **Goal:** Help users grow and optimize their blogging strategy without generating content for them — IntelliBlog is a *decision support tool*, not a content writer.
+### 🧩 [Humanly](#)
+A recruitment and onboarding platform helping businesses automate and optimize their HR workflows.  
+> Focused on recruitment matching, ranking candidates with AI, and streamlining the hiring process.
 
-#### 🛠 Tech Highlights
+### 💼 LeadTracker
+A freelance client and lead management platform for tracking prospects, invoices, and reports —  
+> Designed to simplify the freelance workflow and help manage leads efficiently.
 
-- **Frontend:** React Typescript, Tailwind
-- **Backend:** CSharp, .NET, Fastendpoints
-- **AI Integration:** OpenAI API
-- **Database:** PostgreSQL
+---
 
+## 🛠️ Tech Stack
 
+**Languages:** TypeScript, JavaScript, React, Python, C# SQL 
+**Frameworks:** React, Next.js, Node.js, NestJS, .NET
+**Databases:** PostgreSQL
+**Other Tools:** Docker, Prisma, Git, REST APIs, AI integrations
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+---
 
+## 💡 Philosophy
+
+I believe that **scalability starts at design**, not after launch.  
+Every line of code should be **maintainable**, **performant**, and **ready for growth** — whether it’s a startup MVP or a complex SaaS platform.
+
+---
+
+## 🔍 Currently
+
+- Collaborating with early-stage startups to build scalable MVPs.  
+- Expanding my freelance toolkit — from project automation to client management systems.  
+- Exploring opportunities to contribute to impactful open-source or startup projects.
+
+---
+
+## 🤝 Let’s Work Together
+
+Looking for a developer to **kickstart your product** or **stabilize your platform**?  
+I’m open to collaborations, freelance contracts, and early startup projects.
+
+📫 **Get in touch:**  
+- LinkedIn: [linkedin.com/in/nilsvandepitte](LinkedIn)
+- Email: nilsvandepitte@semplicode.com
+
+---
+
+⭐ *Building things that work. Scaling things that matter.*
