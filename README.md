@@ -1,82 +1,95 @@
-# 👋 Hey, I'm Nils Van de Pitte
+# Nils Van de Pitte
 
-**Full Stack Engineer** focused on building fast, reliable, and scalable systems for startups and small teams.  
-I turn messy problems into clean, predictable, automated workflows.
+Software Engineer with a strong focus on **system design, platform architecture, and long-term maintainability**.
 
----
-
-## 🚀 About Me
-
-I build **high-performance platforms** end-to-end: backend architecture, frontend interfaces, data processing engines, and automation pipelines.  
-My focus is always the same: clean design, performance first, and systems that can scale without becoming fragile.
-
-Whether it's recruitment workflows, property management integrations, or lead tracking engines, I aim for products that feel robust, structured, and optimized from day one.
+I primarily build data-intensive applications where correctness, performance, and clarity are critical. My approach emphasizes thoughtful domain modeling, explicit business logic, and engineering decisions that remain stable as systems evolve.
 
 ---
 
-## 🧠 What I Build
+## Areas of Focus
 
-### 🧩 Humanly  
-A recruitment, onboarding, and HR automation platform built to modernize how companies hire.
+- Backend architecture and domain-driven design
+- Scalable application and data modeling
+- API design and system integration
+- Performance, concurrency, and data integrity
+- Developer experience and maintainable codebases
 
-**Core highlights**
-- Built recruiter tools that define a job, configure preferences, and set automation rules  
-- Designed an AI-powered ranking system that sorts applicants into dynamic tiers (best matches → lower priority)  
-- Created configurable workflows for invites, top picks, auto-processing, and review steps  
-- Focused on maintainable logic so recruitment teams can scale without drowning in manual review
-
-Humanly aims to streamline early-stage hiring processes by blending automation, configurability, and clean data pipelines.
+I value pragmatic engineering and prefer simple, explicit solutions over unnecessary abstraction.
 
 ---
 
-### ⚡ CliQ - Client & Lead Tracker  
-A freelance lead, client, and revenue management system designed to replace spreadsheets and manual tracking.
+## Selected Projects
 
-**Key features**
-- Lead intake + lifecycle tracking (new → contacted → active → closed)  
-- Client management with notes, timeline, activity log, and pipeline status  
-- Invoice tracking, revenue reports, and simple analytics  
-- Automations for reminders and follow-ups  
+### **FlowRev** — Otamiser
+A revenue analytics platform focused on subscription-based business models.
 
-The goal: a minimal but powerful system that helps freelancers (and eventually agencies) keep a predictable overview of their work.
+- Development of core backend functionality
+- Implementation and maintenance of data pipelines and business-critical calculations
+- Strong emphasis on correctness, performance, and data consistency
+- Extended and maintained an existing production system
 
----
-
-### 🏨 FlowRev (Otamiser 2023–2025)
-
-**Automated PMS Integrations**
-- Built real-time sync pipelines using webhook-driven reservation + listing updates  
-- Ensured data integrity across large multi-property portfolios  
-- Streamlined onboarding by automating PMS integration steps
-
-**KPI Engine**
-- Created a performant metrics engine that computes revenue, ADR, occupancy, nights booked, and more  
-- Supported flexible date ranges and per-portfolio customization  
-- Optimized queries for speed, accuracy, and scalability
-
-**Reservation Checker**
-- Built a sortable, detailed reservation comparison tool  
-- Enabled discrepancy detection between expected vs. actual rates  
-- Improved transparency for both internal ops and clients
-
-These systems were designed for scale, accuracy, and ease of debugging — critical for a data-heavy hospitality platform.
+**Technologies:** Node.js, Express, PostgreSQL
 
 ---
 
-## 🛠️ Tech Stack
+### **CliQ**
+A platform for managing leads, contracts, and operational insights.
 
-**Languages:** TypeScript, JavaScript, Python, C#, SQL  
-**Frameworks:** React, Next.js, Node.js, NestJS, .NET  
-**Databases:** PostgreSQL  
-**Tools:** Docker, Prisma, Git, REST APIs, AI integrations
+- Structured tracking of business entities and lifecycle states
+- Focus on data consistency, auditability, and clear state transitions
+- Designed to evolve into a broader operational platform
 
----
-
-## 💡 Philosophy
-
-Scalability starts at design — not after launch.  
-I avoid complexity for the sake of complexity, and focus on clear logic, predictable data flow, and performance-first architecture.
+**Technologies:** Node.js, TypeScript, NestJS, PostgreSQL, Docker
 
 ---
 
-⭐ *Building things that work. Scaling things that matter.*
+### **Humanly** *(in development)*
+A recruitment and HR platform focused on improving how companies evaluate and manage candidates.
+
+- Candidate ranking based on relevance rather than automatic rejection
+- Configurable recruiter workflows
+- Designed around evolving business rules and extensibility
+- Architecture optimized for clarity and future scale
+
+**Technologies:** C#, .NET, PostgreSQL
+
+---
+
+## Technical Stack
+
+### Primary Stack
+- Node.js
+- TypeScript
+- NestJS
+- PostgreSQL
+- Docker
+- React
+- Next.js
+- Vite
+
+### Secondary Stack
+- Python
+- Django
+- FastAPI
+
+---
+
+## Engineering Principles
+
+- Domain-Driven Design
+- Clear separation of concerns
+- Transactional consistency and explicit state transitions
+- Test coverage where it provides long-term value
+- Readability and correctness over premature optimization
+
+---
+
+## Approach
+
+I typically start by understanding the domain and its constraints, then design systems that accommodate change with minimal friction. My work favors predictability, observability, and well-defined boundaries between components.
+
+---
+
+## Contact
+
+Open to thoughtful technical discussions and collaboration on complex systems.
