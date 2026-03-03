@@ -1,95 +1,101 @@
 # Nils Van de Pitte
 
-Software Engineer with a strong focus on **system design, platform architecture, and long-term maintainability**.
+Backend & Platform Engineer focused on **system design, infrastructure-level thinking, and building foundations that scale**.
 
-I primarily build data-intensive applications where correctness, performance, and clarity are critical. My approach emphasizes thoughtful domain modeling, explicit business logic, and engineering decisions that remain stable as systems evolve.
+I design and build data-intensive systems where correctness, performance, and architectural clarity are non-negotiable. My work emphasizes strong domain modeling, explicit state transitions, and long-term maintainability over short-term convenience.
+
+I am particularly interested in developer tooling, infrastructure libraries, and systems that abstract complexity without hiding it.
 
 ---
 
-## Areas of Focus
+## Engineering Focus
 
-- Backend architecture and domain-driven design
-- Scalable application and data modeling
-- API design and system integration
-- Performance, concurrency, and data integrity
-- Developer experience and maintainable codebases
+* Backend architecture & domain-driven design
+* Infrastructure and platform-level systems
+* Data modeling & relational systems
+* Transactional integrity and consistency
+* Performance and predictable behavior
+* Developer experience and API ergonomics
 
-I value pragmatic engineering and prefer simple, explicit solutions over unnecessary abstraction.
+I prefer explicit systems over hidden magic and pragmatic design over unnecessary abstraction.
 
 ---
 
 ## Selected Projects
 
-### **FlowRev** — Otamiser
-A revenue analytics platform focused on subscription-based business models.
+### **Relion** *(in development)*
 
-- Development of core backend functionality
-- Implementation and maintenance of data pipelines and business-critical calculations
-- Strong emphasis on correctness, performance, and data consistency
-- Extended and maintained an existing production system
+A next-generation, framework-agnostic ORM engine written in pure Java.
 
-**Technologies:** Node.js, Express, PostgreSQL
+* Designed as an infrastructure-level data mapping engine
+* Built without Spring or external containers
+* Modular architecture: entity mapping, session management, query engine, hydration engine
+* Focus on predictable SQL generation and architectural transparency
+* Emphasis on performance-oriented relationship handling
 
----
-
-### **CliQ**
-A platform for managing leads, contracts, and operational insights.
-
-- Structured tracking of business entities and lifecycle states
-- Focus on data consistency, auditability, and clear state transitions
-- Designed to evolve into a broader operational platform
-
-**Technologies:** Node.js, TypeScript, NestJS, PostgreSQL, Docker
+**Technologies:** Java 21+, JDBC, H2/PostgreSQL, JUnit
 
 ---
 
-### **Humanly** *(in development)*
-A recruitment and HR platform focused on improving how companies evaluate and manage candidates.
+### **DnD Real-time State Engine** *(in development)*
 
-- Candidate ranking based on relevance rather than automatic rejection
-- Configurable recruiter workflows
-- Designed around evolving business rules and extensibility
-- Architecture optimized for clarity and future scale
+A backend platform designed to separate narrative gameplay from real-time bookkeeping in tabletop RPG systems.
 
-**Technologies:** C#, .NET, PostgreSQL
+* Manages characters, vitals, spell slots, inventory, effects, and movement
+* Designed around structured state transitions and transactional consistency
+* Feature-based API architecture (resources, vitals, movement, effects, equipment)
+* Real-time synchronization of game state across players and Dungeon Masters
+* Clear separation between story layer and mechanical state engine
+
+**Technologies:** Java, REST APIs, PostgreSQL
 
 ---
 
 ## Technical Stack
 
-### Primary Stack
-- Node.js
-- TypeScript
-- NestJS
-- PostgreSQL
-- Docker
-- React
-- Next.js
-- Vite
+### Primary
 
-### Secondary Stack
-- Python
-- Django
-- FastAPI
+* Java
+* Node.js
+* TypeScript
+* PostgreSQL
+* Docker
+
+### Experience With
+
+* NestJS
+* React / Next.js
+* .NET
+* Python (Django, FastAPI)
+* REST & API design
+* Relational database design
 
 ---
 
 ## Engineering Principles
 
-- Domain-Driven Design
-- Clear separation of concerns
-- Transactional consistency and explicit state transitions
-- Test coverage where it provides long-term value
-- Readability and correctness over premature optimization
+* Domain-Driven Design
+* Explicit business logic and state transitions
+* Clear separation of concerns
+* Architectural transparency
+* Long-term maintainability over short-term speed
+* Performance as a design constraint, not an afterthought
 
 ---
 
-## Approach
+## Long-Term Direction
 
-I typically start by understanding the domain and its constraints, then design systems that accommodate change with minimal friction. My work favors predictability, observability, and well-defined boundaries between components.
+My trajectory is toward:
+
+* Infrastructure engineering
+* Platform and tooling development
+* Systems that power other systems
+* Deep backend and data-layer architecture
+
+I aim to build technology that becomes foundational, not incidental.
 
 ---
 
 ## Contact
 
-Open to thoughtful technical discussions and collaboration on complex systems.
+Open to thoughtful technical discussions, infrastructure challenges, and platform-level engineering opportunities.
