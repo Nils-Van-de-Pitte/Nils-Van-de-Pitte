@@ -47,7 +47,7 @@ A backend platform designed to separate narrative gameplay from real-time bookke
 * Real-time synchronization of game state across players and Dungeon Masters
 * Clear separation between story layer and mechanical state engine
 
-**Technologies:** Java, REST APIs, PostgreSQL
+**Technologies:** Java 21+, Spring, REST APIs, PostgreSQL
 
 ---
 
@@ -56,14 +56,15 @@ A backend platform designed to separate narrative gameplay from real-time bookke
 ### Primary
 
 * Java
-* Node.js
-* TypeScript
+* Spring
 * PostgreSQL
 * Docker
 
 ### Experience With
 
 * NestJS
+* Typescript
+* NodeJS
 * React / Next.js
 * .NET
 * Python (Django, FastAPI)
