@@ -23,7 +23,7 @@ I prefer explicit systems over hidden magic and pragmatic design over unnecessar
 
 ## Selected Projects
 
-### **Relion** *(in development)*
+### **Rellion** *(in development)*
 
 A next-generation, framework-agnostic ORM engine written in pure Java.
 
